@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 published: true
-thumbnail: /assets/images/bio-photo.jpg
+thumbnail: /assets/images/VDLLogo.png
 header:
   teaser: /assets/images/VDLLogo.png
 ---
