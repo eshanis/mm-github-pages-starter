@@ -1,10 +1,12 @@
 ---
-title: "Post: Notice"
+title: 'Post: Notice'
 categories:
   - Blog
 tags:
   - Post Formats
   - notice
+published: true
+thumbnail: /assets/images/VDLLogo.png
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
