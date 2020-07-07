@@ -11,7 +11,7 @@ https://github.com/mmistakes/mm-github-pages-starter
 -Step 2 : The next step is to Fork it. Doing this makes a copy. You can then make the 
               changes you need. The Fork button is to the left of the screen.
 
-![]({{site.baseurl}}/assets/images/bio-photo.jpg)
+![]({{site.baseurl}}/assets/images/fork2.PNG)
 
       
 **Step 3 : Customize and change the repository name to youname.github.io
