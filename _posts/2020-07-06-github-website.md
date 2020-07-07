@@ -13,7 +13,7 @@ https://github.com/mmistakes/mm-github-pages-starter
 
 ![]({{site.baseurl}}/assets/images/fork2.PNG)
 
-      
+
 **Step 3 : Customize and change the repository name to youname.github.io
              To do this, click on the settings button.   
          
