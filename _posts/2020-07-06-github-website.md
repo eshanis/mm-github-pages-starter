@@ -4,7 +4,6 @@ published: true
 ## Setting up a website on Github
 
 
-
 -Step 1: Select a website. The one I picked is minimal mistakes.
 
 https://github.com/mmistakes/mm-github-pages-starter
@@ -12,7 +11,7 @@ https://github.com/mmistakes/mm-github-pages-starter
 -Step 2 : The next step is to Fork it. Doing this makes a copy. You can then make the 
               changes you need. The Fork button is to the left of the screen.
 
-![pic]({{site.baseurl}}/assets/images/bio-photo.jpg)
+![]({{site.baseurl}}/assets/images/bio-photo.jpg)
 
       
 **Step 3 : Customize and change the repository name to youname.github.io
