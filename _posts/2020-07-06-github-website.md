@@ -12,7 +12,7 @@ This is my first github page, was a lot of fun and a bit stressful to set up, le
 
 **Step 2** : The next step is to Fork it. Doing this makes a copy. You can then make the changes you need. The Fork button is to the left of the screen.
 
-![]({{site.baseurl}}/assets/images/fork2.PNG)
+![]({{site.baseurl}}/assets/images/fork2_pointer.png)
 
 
 **Step 3** : Customize and change the repository name to youname.github.io To do this, click on the settings button. 
