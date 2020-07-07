@@ -1,5 +1,6 @@
 ---
 published: true
+thumbnail: /assets/images/website.PNG
 ---
 ## Setting up a static website/blog on Github Pages using Jekyll
 
