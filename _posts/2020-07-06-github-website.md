@@ -4,7 +4,7 @@ thumbnail: /assets/images/website.PNG
 ---
 ## Setting up a static website/blog on Github Pages using Jekyll
 
-This is my first github page, was a lot of fun and a bit stressful to set up, learning new stuff, so im sharing some notes for others. I found this great framework [Jeklly Now](https://github.com/mmistakes/mm-github-pages-starter) to use as a starting point
+This is my first github page, was a lot of fun and a bit stressful to set up, learning new stuff, so I am sharing some notes for others. I found this great template [Jeklly Now](https://github.com/mmistakes/mm-github-pages-starter) to use as a starting point for the base framework called [Jekyll-Now](https://github.com/barryclark/jekyll-now)
 
 **Step 1**: Select a  Jekyll template. The one I picked is minimal mistakes, it works nicely with github, and eshnil2000 made some nice changes to allow images on the post summary page.
 
