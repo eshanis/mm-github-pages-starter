@@ -12,12 +12,12 @@ published: true
 **Step 2** : The next step is to Fork it. Doing this makes a copy. You can then make the 
               changes you need. The Fork button is to the left of the screen.
           
-               ![fork2.PNG]({{site.baseurl}}/_posts/fork2.PNG)
+               ![fork2.PNG]({{site.baseurl}}/assets/images/fork2.PNG)
       
 **Step 3** : Customize and change the repository name to youname.github.io
              To do this, click on the settings button.   
          
-             ![setting_changename.PNG]({{site.baseurl}}/_posts/setting_changename.PNG)
+             ![setting_changename.PNG]({{site.baseurl}}/assets/images/setting_changename.PNG)
 
 **Step 4** : Scroll down to the Github pages to publish
         
