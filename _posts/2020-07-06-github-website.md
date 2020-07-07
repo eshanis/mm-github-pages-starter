@@ -22,6 +22,14 @@ This is my first github page, was a lot of fun and a bit stressful to set up, le
 To customize your profile go to [config.yml](https://github.com/eshanis/eshanis.github.io/blob/master/_config.yml) and edit your name, website etc. Save the changes made and click commit. 
 ![]({{site.baseurl}}/assets/images/setting_changename.PNG)
 
+To add photographs the easiest way to is to upload images in the /assets/images folder and then use [markdown](https://guides.github.com/features/mastering-markdown/) to include the picture in your blogpost.
+example: 
+	![]({{site.baseurl}}/assets/images/fork2_pointer.png)
+I like to use the [Prose.io](https://prose.io/) to edit the files and images so I dont have to worry about remembering markdown.
+    
+   
+	
+
 **Step 4** : Scroll down to the Github pages to publish
         
 **Step 5** : To edit the pages Use a third party GitHub content editor, like Prose by Development Seed. It is optimized for use, making markdown editing, writing drafts and uploading images really easy.   
