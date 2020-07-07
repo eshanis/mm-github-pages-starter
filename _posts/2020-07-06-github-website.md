@@ -17,7 +17,7 @@ https://github.com/mmistakes/mm-github-pages-starter
 **Step 3 : Customize and change the repository name to youname.github.io
              To do this, click on the settings button.   
          
-             ![setting_changename.PNG]({{site.baseurl}}/assets/images/setting_changename.PNG)
+![setting_changename.PNG]({{site.baseurl}}/assets/images/setting_changename.PNG)
 
 **Step 4 : Scroll down to the Github pages to publish
         
