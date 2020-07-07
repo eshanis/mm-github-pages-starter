@@ -5,7 +5,7 @@ published: false
 
 **Setting up a website on Github**
 
-**Step 1**: Select a website. The one I picked is 
+**Step 1**: Select a website. The one I picked is minimal mistakes.
 
             https://github.com/mmistakes/mm-github-pages-starter
 
