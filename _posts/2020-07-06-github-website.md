@@ -13,8 +13,9 @@ published: true
               changes you need. The Fork button is to the left of the screen.
 
 ![]({{site.baseurl}}/https://github.com/eshanis/eshanis.github.io/blob/master/assets/images/fork2.PNG)
-          
-               )
+
+![fork2.PNG]({{site.baseurl}}/_posts/fork2.PNG)
+
       
 **Step 3** : Customize and change the repository name to youname.github.io
              To do this, click on the settings button.   
