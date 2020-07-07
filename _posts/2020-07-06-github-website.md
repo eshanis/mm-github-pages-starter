@@ -19,6 +19,9 @@ This is my first github page, was a lot of fun and a bit stressful to set up, le
          
 ![setting_changename.PNG]({{site.baseurl}}/assets/images/setting_changename.PNG)
 
+To customize your profile go to [config.yml](https://github.com/eshanis/eshanis.github.io/blob/master/_config.yml) and edit your name, website etc. Save the changes made and click commit. 
+![]({{site.baseurl}}//assets/images/setting_changename.PNG)
+
 **Step 4** : Scroll down to the Github pages to publish
         
 **Step 5** : To edit the pages Use a third party GitHub content editor, like Prose by Development Seed. It is optimized for use, making markdown editing, writing drafts and uploading images really easy.   
