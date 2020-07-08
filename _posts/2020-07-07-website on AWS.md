@@ -37,4 +37,8 @@ To automatically install a webserver like nginx and git and then dowload your we
 
 Step 7: Accept the default storage capacity and click next.
 
-Step 8: select the security group
+Step 8: Create a new security group with ports 80 and 22 open to incoming traffic
+
+Step 9 : To Review and launch
+Create a new pair of keys and save the private key. Then click launch.
+
