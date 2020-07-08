@@ -6,7 +6,7 @@ This second post is about setting up a simple website on AWS.
 Step 1: Create a new account or sign into [amazon console](https://aws.amazon.com/console/) using your amazon account
 
 Step 2: Go to the pull down menu for services and select EC2 under compute
-![EC2]({{site.baseurl}}//assets/images/ec2.PNG)
+![EC2]({{site.baseurl}}/assets/images/ec2.PNG)
 
 Step 3: Click on instances to launch a new intsnace using the blue drop down menu
 
