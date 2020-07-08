@@ -26,11 +26,12 @@ Step 6: This window will configure instance details. Then click next if you dont
 To automatically install a webserver like nginx and git and then dowload your website files from github, copy this script into the User Data Section. Scroll down to the advanced details  
 	  
 	#!/bin/bash
-	sudo apt-get update
+	sudo apt-get update 
 	sudo apt-get install nginx git -y
-	cd /usr/share/nginx/html/
-	sudo rm /usr/share/nginx/html/*
-	git clone https://github.com/eshnil2000/test .
+    sudo apt-get update --fix-missing
+	cd /var/www/html/
+	sudo rm /var/www/html/*
+	sudo git clone https://github.com/eshnil2000/test .
     
 ![User data]({{site.baseurl}}/_posts/configure_instance2_advanced.PNG)
 
@@ -44,4 +45,4 @@ Create a new pair of keys and save the private key. Then click launch.
 
 ![launch]({{site.baseurl}}/_posts/launched_instance.PNG)
 
-
+Step 10 : check that your instance is now running and has a IP address 
