@@ -8,7 +8,7 @@ Step 1: Create a new account or sign into [amazon console](https://aws.amazon.co
 Step 2: Go to the pull down menu for services and select EC2 under compute
 ![EC2]({{site.baseurl}}/assets/images/ec2.PNG)
 
-Step 3: Click on instances to launch a new intsnace using the blue drop down menu
+Step 3: Click on instances to launch a new instance using the blue drop down menu
 
 ![instance]({{site.baseurl}}/assets/images/instance.PNG)
 
