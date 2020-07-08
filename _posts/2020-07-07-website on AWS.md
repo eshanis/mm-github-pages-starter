@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This second post is about setting up a simple website on AWS.
 
