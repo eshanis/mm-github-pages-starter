@@ -42,3 +42,6 @@ Step 8: Create a new security group with ports 80 and 22 open to incoming traffi
 Step 9 : To Review and launch
 Create a new pair of keys and save the private key. Then click launch.
 
+![launch]({{site.baseurl}}/_posts/launched_instance.PNG)
+
+
