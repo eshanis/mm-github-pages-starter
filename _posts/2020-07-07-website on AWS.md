@@ -10,7 +10,7 @@ Step 2: Go to the pull down menu for services and select EC2 under compute
 
 Step 3: Click on instances to launch a new intsnace using the blue drop down menu
 
-![instance]({{site.baseurl}}/_posts/instance.PNG)
+![instance]({{site.baseurl}}/assets/images/instance.PNG)
 
 Step 4: New users get certain free accounts to you can select one. I selected the free one for UBUNTU
 
@@ -18,10 +18,10 @@ Step 4: New users get certain free accounts to you can select one. I selected th
 
 Step 5: select the instance type and select next
 
-![instance type]({{site.baseurl}}/_posts/instance type.PNG)
+![instance type]({{site.baseurl}}/assets/images/instance%20type.PNG)
 
 Step 6: This window will configure instance details. Then click next if you dont need to make any changes. 
-![configure Instance]({{site.baseurl}}/_posts/configure_instance1.PNG)
+![configure Instance]({{site.baseurl}}/assets/images/configure_instance1.PNG)
 
 To automatically install a webserver like nginx and git and then dowload your website files from github, copy this script into the User Data Section. Scroll down to the advanced details  
 	  
@@ -33,7 +33,7 @@ To automatically install a webserver like nginx and git and then dowload your we
 	sudo rm /var/www/html/*
 	sudo git clone https://github.com/eshnil2000/test .
     
-![User data]({{site.baseurl}}/_posts/configure_instance2_advanced.PNG)
+![User data]({{site.baseurl}}/assets/images/configure_instance2_advanced.PNG)
 
 
 Step 7: Accept the default storage capacity and click next.
@@ -43,6 +43,6 @@ Step 8: Create a new security group with ports 80 and 22 open to incoming traffi
 Step 9 : To Review and launch
 Create a new pair of keys and save the private key. Then click launch.
 
-![launch]({{site.baseurl}}/_posts/launched_instance.PNG)
+![launch]({{site.baseurl}}/assets/images/launched_instance.PNG)
 
 Step 10 : check that your instance is now running and has a IP address 
