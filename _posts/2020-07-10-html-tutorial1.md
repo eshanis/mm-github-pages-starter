@@ -9,6 +9,7 @@ example:
     content 
 	</head>
     
+
 some tags don't have a closing tag 
 examples:
 
