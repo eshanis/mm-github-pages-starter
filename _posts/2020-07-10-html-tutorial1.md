@@ -36,6 +36,7 @@ example:
   <div>
     *** DIV 3: Following right after span 1 
     <span>*** SPAN 2: INSIDE div 3 ***</span>
+  <span>*** SPAN 3 on same line as span 2 ***</span>
     Continue content of div 3 ***
   </div>
 
