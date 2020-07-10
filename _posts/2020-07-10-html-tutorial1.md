@@ -7,7 +7,7 @@ Always have an opening tag and closing tag and the content is between these tags
 example:  
 ```
 <head> 
-    	content 
+    content 
 </head>
 ``` 
 
