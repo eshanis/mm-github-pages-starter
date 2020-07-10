@@ -8,7 +8,9 @@ example:
 	<head> 
     content 
 	</head>
+    
 some tags don't have a closing tag 
-example:
+examples:
+
 <br> - line break 
 <hr> - horizontal rule 
