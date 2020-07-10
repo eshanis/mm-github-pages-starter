@@ -20,4 +20,10 @@ examples:
 <!--this is horizontal line-->
 <hr>  
 ```
-html tags have attribute
+html tags have attributes
+example:
+
+```
+<p id="myID">
+</p>
+```
