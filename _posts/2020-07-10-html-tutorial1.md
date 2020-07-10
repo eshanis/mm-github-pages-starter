@@ -7,7 +7,7 @@ Always have an opening tag and closing tag and the content is between these tags
 example:  
 ```
 <!doctype html>
-<!--this is an opening tag>
+<!--this is an opening tag-->
 <html>
 <head>
   <meta charset="utf-8">
@@ -23,7 +23,7 @@ example:
     Continue content of div 3 ***
   </div>
 </body>
-<!--this is an closing tag>
+<!--this is an closing tag-->
 </html>
 ``` 
 
