@@ -27,9 +27,9 @@ example:
 </html>
 ``` 
 
-<!doctype html>
+
 <!--this is an opening tag-->
-<html>
+
 <head>
   <meta charset="utf-8">
   <title>div and span elements</title>
@@ -45,7 +45,7 @@ example:
   </div>
 </body>
 <!--this is an closing tag-->
-</html>
+
 
 some tags don't have a closing tag 
 examples:
