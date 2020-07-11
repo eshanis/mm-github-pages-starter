@@ -160,9 +160,7 @@ examples:
 </body>
 ```
 
-<title>Ordered Lists</title>
-</head>
-<body>
+
   <h1>Ordered list</h1>
   <div>
     Oreo cookie eating procedure:
@@ -179,4 +177,3 @@ examples:
       <li>Enjoy!</li>
     </ol>
   </div>
-</body>
