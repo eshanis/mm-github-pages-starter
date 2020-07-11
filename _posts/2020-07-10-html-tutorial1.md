@@ -27,8 +27,6 @@ html tags
 </html>
 ``` 
 
-
-
   <div>*** DIV 1: Some content here ***</div>
   <div>*** DIV 2: Following right after div 1 ***</div>
   <span>*** SPAN 1: Following right after div 2 ***</span>
@@ -38,6 +36,7 @@ html tags
   <span>*** SPAN 3 on same line as span 2 ***</span>
     Continue content of div 3 ***
   </div>
+
 
 
 
