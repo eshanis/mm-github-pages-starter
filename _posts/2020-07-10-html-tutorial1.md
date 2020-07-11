@@ -3,8 +3,8 @@ published: true
 ---
 html tags
 
-1. html tags always have an opening tag and closing tag and the content is between these tags
-   example:  
+### 1. html tags always have an opening tag and closing tag and the content is between these tags
+   example:
 ```
 <!doctype html>
 <!--this is an opening tag-->
@@ -41,7 +41,7 @@ html tags
 
 
 
-2. some tags don't have a closing tag 
+### 2. some tags don't have a closing tag 
 examples:
 
 ```
@@ -56,7 +56,7 @@ examples:
 <hr>
 
 
-3. html text ranges form h1, largest to h6, smallest
+### 3. html text ranges form h1, largest to h6, smallest
 
 ```
 <h1>This is the Main Heading</h1>
@@ -79,7 +79,7 @@ examples:
 
 
 
-4. Sections, articles, header and footer  
+### 4. Sections, articles, header and footer
 
 ```
 <header>
