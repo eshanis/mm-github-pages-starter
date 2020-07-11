@@ -28,7 +28,6 @@ example:
 ``` 
 
 
-<!--this is an opening tag-->
 
   <div>*** DIV 1: Some content here ***</div>
   <div>*** DIV 2: Following right after div 1 ***</div>
@@ -70,4 +69,9 @@ examples:
 </body>
 </html>
 ```
-
+<h1>This is the Main Heading</h1>
+  <h2>Subheading 2</h2>
+  <h3>Subheading 3</h3>
+  <h4>Subheading 4</h4>
+  <h5>Subheading 5</h5>
+  <h6>Subheading 6</h6>
