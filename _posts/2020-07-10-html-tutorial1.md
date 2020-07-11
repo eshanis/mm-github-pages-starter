@@ -39,7 +39,6 @@ html tags
     Continue content of div 3 ***
   </div>
 
-<!--this is an closing tag-->
 
 
 
@@ -57,7 +56,17 @@ examples:
 <br>
 <hr>
 
+
 3. html text ranges form h1, largest to h6, smallest
+
+```
+<h1>This is the Main Heading</h1>
+  <h2>Subheading 2</h2>
+  <h3>Subheading 3</h3>
+  <h4>Subheading 4</h4>
+  <h5>Subheading 5</h5>
+  <h6>Subheading 6</h6>
+
 ```
 
 <body>
@@ -69,15 +78,9 @@ examples:
   <h6>Subheading 6</h6>
 </body>
 
-```
-<h1>This is the Main Heading</h1>
-  <h2>Subheading 2</h2>
-  <h3>Subheading 3</h3>
-  <h4>Subheading 4</h4>
-  <h5>Subheading 5</h5>
-  <h6>Subheading 6</h6>
 
-4. Sections, articles, header and footer 
+
+4. Sections, articles, header and footer  
 
 ```
 <header>
@@ -105,7 +108,9 @@ examples:
   <footer>
     JHU Copyright 2015
   </footer>
-```
+  
+  ```
+  
 <header>
     header element - Some header information goes here. Usually consists of company logo, some tag line, etc. Sometimes, navigation is contained in the header as well.
     <nav>nav (short for navigation) element - Usually contains links to different parts of the web site.</nav>
