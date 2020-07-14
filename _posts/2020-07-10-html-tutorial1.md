@@ -144,11 +144,13 @@ examples:
       <li>Open box</li>
       <li>Take out cookie</li>
       <li>Make a Double Oreo
+        <!-- below is an ordered list within a list item -->   
         <ol>
           <li>Peel off the top part</li>
           <li>Place another cookie in the middle</li>
           <li>Put back the top part</li>
         </ol>
+         <!-- end of ol within the li -->   
       </li>
       <li>Enjoy!</li>
     </ol>
