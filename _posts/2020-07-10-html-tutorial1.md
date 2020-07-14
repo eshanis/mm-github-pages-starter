@@ -136,10 +136,6 @@ examples:
 ### 5. ordered list
 
 ```
-<head>
-  <meta charset="utf-8">
-  <title>Ordered Lists</title>
-</head>
 <body>
   <h1>Ordered list</h1>
   <div>
