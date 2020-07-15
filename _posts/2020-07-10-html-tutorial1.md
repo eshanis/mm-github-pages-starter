@@ -175,3 +175,17 @@ examples:
       <li>Enjoy!</li>
     </ol>
   </div>
+
+### Commenting in CSS file 
+to comment any line in CSS file use "/*"
+
+```
+li
+{ 
+    /* 
+	list-style: none;
+    */
+}
+
+```
+
