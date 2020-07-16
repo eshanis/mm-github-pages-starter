@@ -27,8 +27,7 @@ b.  [github pages](https://blog.eshani.ml/) I created this website as my tech bl
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
 
 c.  I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for a
-    basic website. I will write a blog about this soon. I also linked my 000webhost domain to my eshanis.ml domain
-    using cname 
+    basic website. I also linked my 000webhost domain to my eshanis.ml domain using cname 
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG) 
 
@@ -36,8 +35,11 @@ c.  I created my main website on [000webhost](https://www.000webhost.com/) becau
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
 
 **Cheat Sheet**
+
 1.Webserver options : aws, github, 000webserver
+
 2.Domani name registration: freenom.com
+
 3.website editors:Prose (for github), Sublime text, Bracket (shows realtime changes via live preview)
 
 for more details click [here](https://blog.eshani.ml/building-a-website/)
