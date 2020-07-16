@@ -10,7 +10,7 @@ This blog is a step by step guide to build a website using [typerite](https://ww
 
 **Step 2.** I used [Brackets](http://brackets.io/) to edit the files. When you open the files using Brackets, you need to unzip the folder. I used Brackets for couple of different reasons
 
--it gives me a live preview of the changes I make right next to the editor. To got to live preview, click on the drop down menu for file and select "live preview".
+-it gives me a live preview of the changes I make right next to the editor. To got to live preview, click on the drop down menu for file and select "live preview". 
 
 ![live preview]({{site.baseurl}}/assets/images/typerite_bracket_live_preview.PNG)
 
@@ -19,4 +19,4 @@ This blog is a step by step guide to build a website using [typerite](https://ww
 
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
 
-
+**Step 3.** Once the editing is completed, I uploaded the website to [000webhost](https://www.000webhost.com/) 
