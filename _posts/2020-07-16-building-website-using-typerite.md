@@ -6,7 +6,7 @@ This blog is a step by step guide to build a website using [typerite](https://ww
 
 1. I downloaded the files from [typerite](https://www.styleshout.com/free-templates/typerite/) onto my comupter as a zipped folder. 
 
-![download as zipped files]({{site.baseurl}}/assets/images/typerite_downloaded_files_typerite_mycomp)
+![download as zipped files]({{site.baseurl}}/assets/images/typerite_downloaded_files_typerite_mycomp.PNG)
 
 2. I used [Brackets](http://brackets.io/) to edit the files. I used Brackets for couple of different reasons
 
@@ -19,4 +19,3 @@ This blog is a step by step guide to build a website using [typerite](https://ww
 When you open the files using Brackets, you need to unzip the folder.
 
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
-
