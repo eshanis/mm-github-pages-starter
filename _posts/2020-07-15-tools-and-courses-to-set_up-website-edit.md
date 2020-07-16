@@ -30,6 +30,7 @@ There are many webserver options. The ones I used were aws, github and 000webhos
 
 
 
+
 **c.**   I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for
          a basic website. I also linked my 000webhost domain to my eshanis.ml domain using cname 
 
@@ -50,7 +51,7 @@ There are many webserver options. The ones I used were aws, github and 000webhos
    preview)
 ![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
 
-  for more details click [here](https://blog.eshani.ml/building-a-website/)
+  for more details about the cheat sheet click [here](https://blog.eshani.ml/building-a-website/)
 
 
 **COURSES**
