@@ -1,19 +1,18 @@
 ---
 published: true
 ---
-I am signed up for an[associates degree at Los Rios College](https://www.scc.losrios.edu/academics/programs-and-majors/computer-information-science)
+I am signed up for an [associates degree at Los Rios College](https://www.scc.losrios.edu/academics/programs-and-majors/computer-information-science)
 
-I also took some online courses which helped me. This blog is a summary of things I found useful. 
+I also took some online courses which helped me. I followed a course on [coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) and 
+the [course lectures](https://github.com/eshanis/fullstack-course4) and code can be found on github
 
-[coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
-The [course lectures](https://github.com/eshanis/fullstack-course4) and code can be found on github
-
-[rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
+Another online course that was interactive and helped me was [rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
 The Code and lectures for this course can be found [here](https://github.com/eshanis/html_css_basics_solutions)
 
-I found it very useful to use an awesome code editor, [Brackets](http://brackets.io/), which lets me view my changes live and also lets me find my CSS code directly when I highlight my HTML code.
+An awesome code editor I used was, [Brackets](http://brackets.io/), which lets me view my changes live and also lets me find my CSS code directly when I highlight my HTML code.
 
 ![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
+
 
 ### My Notes
 
