@@ -10,3 +10,5 @@ There are various ways to build a website. It seemed very daunting to me and I d
 
 4. You can start building a website from scratch. This means creating HTML, CSS and Java Script. This is a very painful process but a great way to learn. This one I have  not tried yet.
 
+xxx
+
