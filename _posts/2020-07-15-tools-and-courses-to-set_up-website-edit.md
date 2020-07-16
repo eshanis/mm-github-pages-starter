@@ -16,6 +16,6 @@ This involved many steps and I had to pay for this service after my free account
 b.[github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom](https://my.freenom.com/clientarea.php?action=domains) 
 
 ![]({{site.baseurl}}/assets/images/freenom_domain.PNG)
-and linked it to my github pages webaddress which was https://eshanis.github.io
+and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG)
