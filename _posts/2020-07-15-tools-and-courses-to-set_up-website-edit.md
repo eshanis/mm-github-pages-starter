@@ -3,31 +3,34 @@ published: true
 ---
 When I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses, I was extremely confused and didn't know where to start. I am completely new to the tech side of things and everyday was kind of a do over of me until I started getting a hang of things. I started writing about "how to" and "where to go" so I could track what I was doing and maybe help someone else in the same boat. 
 
-** 1. Webhosting Options**
+### ** 1. Webhosting Options**
 
-There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options
 
-a.[aws](https://aws.amazon.com/console/) - Amazon Web Services 
+There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options.
 
-For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
+a.  [aws](https://aws.amazon.com/console/) - Amazon Web Services 
+    This involved many steps and I had to pay for this service after my free account for a year was used up.
+    For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
+    
 
-This involved many steps and I had to pay for this service after my free account for a year was used up.
-
-b.[github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom](https://my.freenom.com/clientarea.php?action=domains) 
+b.  [github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find the     code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to set up       [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
+    (https://my.freenom.com/clientarea.php?action=domains) 
 
 ![]({{site.baseurl}}/assets/images/freenom_domain.PNG)
-and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
+     and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG)
 
-To create my githubpages blog website, I used a tool called [prose.io](https://prose.io/#eshanis)
+    To create my githubpages blog website, I used a tool called [prose.io](https://prose.io/#eshanis)
 
-One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
+    NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
 
-c. I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for a basic website. I will write a blog about this soon. I also linked my 000webhost domain to my eshanis.ml domain using cname 
+c.  I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for a
+    basic website. I will write a blog about this soon. I also linked my 000webhost domain to my eshanis.ml domain
+    using cname 
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG) 
 
-Don't forget to also connect your domain on the [000webhost website](https://www.000webhost.com/).
+    NOTE: Don't forget to also connect your domain on the [000webhost website](https://www.000webhost.com/).
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
