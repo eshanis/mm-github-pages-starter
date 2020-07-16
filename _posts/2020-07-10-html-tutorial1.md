@@ -1,6 +1,20 @@
 ---
 published: true
 ---
+I am signed up for an[associates degree at Los Rios College](https://www.scc.losrios.edu/academics/programs-and-majors/computer-information-science)
+
+I also took some online courses which helped me. This blog is a summary of things I found useful. 
+
+[coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
+The [course lectures](https://github.com/eshanis/fullstack-course4) and code can be found on github
+
+[rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
+The Code and lectures for this course can be found [here](https://github.com/eshanis/html_css_basics_solutions)
+
+
+### My Notes
+
+
 html tags
 
 ### 1. html tags always have an opening tag and closing tag and the content is between these tags
@@ -188,4 +202,3 @@ li
 }
 
 ```
-
