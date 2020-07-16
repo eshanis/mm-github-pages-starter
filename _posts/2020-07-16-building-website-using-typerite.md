@@ -19,3 +19,10 @@ When I started, I was so overwhelmed with all the options out there and trying t
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
 
 **Step 3.** Once the editing is completed, I uploaded the website to [000webhost](https://www.000webhost.com/) 
+When uploading to 000webhost, make sure to unzip the files.
+
+![upload_files_000webhost]({{site.baseurl}}/assets/images/typerite_upload_file_webhost.PNG)
+
+The files need to be uploaded in the public.html folder
+
+![upload_unzip_public_html]({{site.baseurl}}/assets/images/typerite_upload_public_html.PNG)
