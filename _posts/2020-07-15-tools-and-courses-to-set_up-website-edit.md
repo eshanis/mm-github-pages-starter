@@ -24,7 +24,7 @@ There are many webserver options. The ones I used were aws, github and 000webhos
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG)
 
-      To create my githubpages blog website, I used a **tool** called [prose.io](https://prose.io/#eshanis)
+ To create my githubpages blog website, I used a **tool** called [prose.io](https://prose.io/#eshanis)
 
     NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
