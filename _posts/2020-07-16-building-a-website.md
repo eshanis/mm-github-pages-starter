@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 publish: true
 ---
 There are various ways to build a website. It seemed very daunting to me and I didn't know where to begin so I started exploring different ways to see what worked for me.  I am still learning and exploring. A few ways to build a website are listed below.
@@ -10,5 +10,4 @@ There are various ways to build a website. It seemed very daunting to me and I d
 
 4. You can start building a website from scratch. This means creating HTML, CSS and Java Script. This is a very painful process but a great way to learn. This one I have  not tried yet.
 
-xxx
 
