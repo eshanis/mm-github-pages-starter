@@ -14,8 +14,7 @@ An awesome code editor I used was, [Brackets](http://brackets.io/), which lets m
 ![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
 
 
-### My Notes
-
+### MY NOTES
 
 html tags
 
