@@ -19,3 +19,8 @@ b.[github pages](https://blog.eshani.ml/) I created this website as my tech blog
 and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG)
+
+To create my githubpages blog website, I used a tool called [prose.io](https://prose.io/#eshanis)
+
+One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
+![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
