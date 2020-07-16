@@ -24,3 +24,6 @@ To create my githubpages blog website, I used a tool called [prose.io](https://p
 
 One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
+
+c. I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for a basic website. I will trite a blog about this soon.
+
