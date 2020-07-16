@@ -2,7 +2,7 @@
 published: true
 ---
 Hello!
-This blog is a step by step guide to building a website using [typerite](https://www.styleshout.com/free-templates/typerite/). Hope this blog makes it easier for you to build your website.
+When I started, I was so overwhelmed with all the options out there and trying to figure out how to host a website without spending a ton of money, it took me awhile to get here. Hope this blog makes it easier for you to build your website. This blog is a step by step guide to building a website using [typerite](https://www.styleshout.com/free-templates/typerite/).
 
 **Step 1.** I downloaded the files from [typerite](https://www.styleshout.com/free-templates/typerite/) onto my comupter as a zipped folder. 
 
