@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-When I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses, I was extremely confused and didn't know where to start. I am completely new to the tech side of things and everyday was kind of a do over of me until I started getting a hang of things. I started writing about "how to" and "where to go" so I could track what I was doing and maybe help someone else in the same boat. 
+When I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses, I was extremely confused and didn't know where to start. I am completely new to the tech side of things and everyday was kind of a do over of me until I started getting a hang of things. I started writing about "how to" and "where to go" so I could track what I was doing and maybe help someone else in the same boat. This blog is a summary of things I found useful. 
+
 
 ### ** Webhosting Options**
 
@@ -43,3 +44,17 @@ c.  I created my main website on [000webhost](https://www.000webhost.com/) becau
 3.website editors:Prose (for github), Sublime text, Bracket (shows realtime changes via live preview)
 
 for more details click [here](https://blog.eshani.ml/building-a-website/)
+
+**COURSES**
+
+I am signed up for an [associates degree at Los Rios College](https://www.scc.losrios.edu/academics/programs-and-majors/computer-information-science)
+
+I also took some online courses which helped me. I followed a course on [coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) and 
+the [course lectures](https://github.com/eshanis/fullstack-course4) and code can be found on github
+
+Another online course that was interactive and helped me was [rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
+The Code and lectures for this course can be found [here](https://github.com/eshanis/html_css_basics_solutions)
+
+An awesome code editor I used was, [Brackets](http://brackets.io/), which lets me view my changes live and also lets me find my CSS code directly when I highlight my HTML code.
+
+![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
