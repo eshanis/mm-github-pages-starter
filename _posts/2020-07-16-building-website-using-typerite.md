@@ -18,7 +18,10 @@ When I started, I was so overwhelmed with all the options out there and trying t
 
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
 
-**Step 3.** Once the editing is completed, I uploaded the website to [000webhost](https://www.000webhost.com/) 
+**Step 3.** I used freenom to register my domain name. For details click [here](https://blog.eshani.ml/tools-and-courses-to-set_up-website-edit/ "Domain_name")
+
+**Step 4.** Once the editing is completed using Bracket, I uploaded the website to [000webhost](https://www.000webhost.com/). For information on how to [click here](https://blog.eshani.ml/tools-and-courses-to-set_up-website-edit/ "Cname")
+
 When uploading to 000webhost, make sure to unzip the files.
 
 ![upload_files_000webhost]({{site.baseurl}}/assets/images/typerite_upload_file_webhost.PNG)
@@ -26,3 +29,4 @@ When uploading to 000webhost, make sure to unzip the files.
 The files need to be uploaded in the public.html folder
 
 ![upload_unzip_public_html]({{site.baseurl}}/assets/images/typerite_upload_public_html.PNG)
+
