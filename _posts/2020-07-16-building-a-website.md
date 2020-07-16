@@ -10,4 +10,4 @@ There are various ways to build a website. It seemed very daunting to me and I d
 
 3. Another option is to use [wordpress](https://wordpress.com/). This is the quickest option to make modifications and customizations. This did not give me the opportunity to learn hands on which is why I did not pick to go this way. 
 
-4. You can start building a website from scratch. This means creating HTML, CSS and Java Script. This is a very painful process but a great way to learn. This one I have  not tried yet.
+4. You can start building a website from scratch. This means creating HTML, CSS and Java Script. This is a very painful process but a great way to learn. This one I have not yet tried.
