@@ -11,6 +11,9 @@ The [course lectures](https://github.com/eshanis/fullstack-course4) and code can
 [rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
 The Code and lectures for this course can be found [here](https://github.com/eshanis/html_css_basics_solutions)
 
+I found it very useful to use an awesome code editor, [Brackets](http://brackets.io/), which lets me view my changes live and also lets me find my CSS code directly when I highlight my HTML code.
+
+![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
 
 ### My Notes
 
