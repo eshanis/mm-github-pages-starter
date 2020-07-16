@@ -4,7 +4,7 @@ published: true
 When I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses, I was extremely confused and didn't know where to start. I am completely new to the tech side of things and everyday was kind of a do over of me until I started getting a hang of things. I started writing about "how to" and "where to go" so I could track what I was doing and maybe help someone else in the same boat. This blog is a summary of things I found useful. 
 
 
-### ** Webhosting Options**
+### ** WEBHOSTING OPTIONS**
 
 There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options.
 
@@ -13,7 +13,8 @@ There are many webserver options. The ones I used were aws, github and 000webhos
         For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
     
 
-**b.**  [github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find
+**b.**  **Github** is another webhosting option I explored because it did not require me to write complicated code.
+        [github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find
         the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to
         set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
         (https://my.freenom.com/clientarea.php?action=domains) 
@@ -52,7 +53,7 @@ There are many webserver options. The ones I used were aws, github and 000webhos
    preview)
 ![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
 
-  for more details about the cheat sheet click [here](https://blog.eshani.ml/building-a-website/)
+  For more details about the cheat sheet click [here](https://blog.eshani.ml/building-a-website/)
 
 
 **COURSES**
