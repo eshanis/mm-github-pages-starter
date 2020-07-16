@@ -1,11 +1,11 @@
 ---
 published: true
 ---
-I was overwhelmed when I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses related to these so I needed to write about it.  
+When I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses, I was extremely confused and didn't know where to start. I am completely new to the tech side of things and everyday was kind of a do over of me until I started getting a hang of things. I started writing about "how to" and "where to go" so I could track what I was doing and maybe help someone else in the same boat. 
 
 ** 1. Webhosting Options**
 
-There are many webserver options. The ones I used were :
+There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options
 
 a.[aws](https://aws.amazon.com/console/) - Amazon Web Services 
 
@@ -31,5 +31,3 @@ c. I created my main website on [000webhost](https://www.000webhost.com/) becaus
 
 Don't forget to also connect your domain on the [000webhost website](https://www.000webhost.com/).
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
-
-
