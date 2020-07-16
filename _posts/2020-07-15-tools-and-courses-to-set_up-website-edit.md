@@ -14,7 +14,7 @@ There are many webserver options. The ones I used were aws, github and 000webhos
     
 
 **b.**  **Github** is another webhosting option I explored because it did not require me to write complicated code.
-        [github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find
+        I created the [github pages](https://blog.eshani.ml/) website as my tech blog on Github pages. You can find
         the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to
         set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
         (https://my.freenom.com/clientarea.php?action=domains) 
