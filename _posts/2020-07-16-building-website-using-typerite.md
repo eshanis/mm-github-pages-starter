@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Hello!
 This blog is a step by step guide to build a website using [typerite](https://www.styleshout.com/free-templates/typerite/). Hope this blog makes it easier for you to build your website.
