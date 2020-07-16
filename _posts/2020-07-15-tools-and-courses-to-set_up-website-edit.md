@@ -31,4 +31,3 @@ c. I created my main website on [000webhost](https://www.000webhost.com/) becaus
 
 Don't forget to also connect your domain on the [000webhost website](https://www.000webhost.com/).
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
-
