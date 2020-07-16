@@ -39,4 +39,5 @@ c.  I created my main website on [000webhost](https://www.000webhost.com/) becau
 1.Webserver options : aws, github, 000webserver
 2.Domani name registration: freenom.com
 3.website editors:Prose (for github), Sublime text, Bracket (shows realtime changes via live preview)
-more [here](https://blog.eshani.ml/building-a-website/)
+
+for more details click [here](https://blog.eshani.ml/building-a-website/)
