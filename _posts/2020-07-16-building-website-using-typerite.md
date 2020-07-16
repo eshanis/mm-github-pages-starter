@@ -14,7 +14,6 @@ When I started, I was so overwhelmed with all the options out there and trying t
 
 ![live preview]({{site.baseurl}}/assets/images/typerite_bracket_live_preview.PNG)
 
-
 -it lets me edit CSS files in the Index folder using the quck edit option when you right click on the down arrow.
 
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
