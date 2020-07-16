@@ -8,7 +8,7 @@ When I started learning about how to set up websites on various platforms, HTML,
 
 There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options.
 
-**a.**  [aws](https://aws.amazon.com/console/) - Amazon Web Services 
+**a.**  [aws](https://aws.amazon.com/console/) - **Amazon Web Services** 
         This involved many steps and I had to pay for this service after my free account for a year was used up.
         For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
     
@@ -31,8 +31,9 @@ There are many webserver options. The ones I used were aws, github and 000webhos
 
 
 
-**c.**   I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for
-         a basic website. I also linked my 000webhost domain to my eshanis.ml domain using cname 
+**c.**  **000webhost** is where I created my main website I used [000webhost](https://www.000webhost.com/) because
+         they have a free account for a basic website. I also linked my 000webhost domain to my eshanis.ml domain
+         using cname on **freenom**
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG) 
 
@@ -41,7 +42,7 @@ There are many webserver options. The ones I used were aws, github and 000webhos
 
 
 
-**Cheat Sheet**
+**CHEAT SHEET**
 
 1. Webserver options : aws, github, 000webserver
 
