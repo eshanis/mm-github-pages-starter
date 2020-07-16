@@ -8,41 +8,50 @@ When I started learning about how to set up websites on various platforms, HTML,
 
 There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options.
 
-a.  [aws](https://aws.amazon.com/console/) - Amazon Web Services 
-    This involved many steps and I had to pay for this service after my free account for a year was used up.
-    For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
+**a.**  [aws](https://aws.amazon.com/console/) - Amazon Web Services 
+        This involved many steps and I had to pay for this service after my free account for a year was used up.
+        For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
     
 
-b.  [github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find the     code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to set up       [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
-    (https://my.freenom.com/clientarea.php?action=domains) 
+**b.**  [github pages](https://blog.eshani.ml/) I created this website as my tech blog on Github pages. You can find
+        the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to
+        set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
+        (https://my.freenom.com/clientarea.php?action=domains) 
 
 ![]({{site.baseurl}}/assets/images/freenom_domain.PNG)
-     and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
+         and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG)
 
-    To create my githubpages blog website, I used a tool called [prose.io](https://prose.io/#eshanis)
+      To create my githubpages blog website, I used a **tool** called [prose.io](https://prose.io/#eshanis)
 
     NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
 
-c.  I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for a
-    basic website. I also linked my 000webhost domain to my eshanis.ml domain using cname 
+
+
+**c.**   I created my main website on [000webhost](https://www.000webhost.com/) because they have a free account for
+         a basic website. I also linked my 000webhost domain to my eshanis.ml domain using cname 
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG) 
 
-    NOTE: Don't forget to also connect your domain on the [000webhost website](https://www.000webhost.com/).
+   **NOTE:** Don't forget to also connect your domain on the [000webhost website](https://www.000webhost.com/).
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
+
+
 
 **Cheat Sheet**
 
-1.Webserver options : aws, github, 000webserver
+1. Webserver options : aws, github, 000webserver
 
-2.Domani name registration: freenom.com
+2. Domain name registration: freenom.com
 
-3.website editors:Prose (for github), Sublime text, Bracket (shows realtime changes via live preview)
+3. website editors:Prose (for github), Sublime text, [Bracket](http://brackets.io/) (shows realtime changes via live
+   preview)
+![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
 
-for more details click [here](https://blog.eshani.ml/building-a-website/)
+  for more details click [here](https://blog.eshani.ml/building-a-website/)
+
 
 **COURSES**
 
@@ -54,6 +63,5 @@ the [course lectures](https://github.com/eshanis/fullstack-course4) and code can
 Another online course that was interactive and helped me was [rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
 The Code and lectures for this course can be found [here](https://github.com/eshanis/html_css_basics_solutions)
 
-An awesome code editor I used was, [Brackets](http://brackets.io/), which lets me view my changes live and also lets me find my CSS code directly when I highlight my HTML code.
 
-![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
+
