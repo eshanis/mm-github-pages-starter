@@ -59,9 +59,9 @@ Published: true
   &copy; Copyright
   
  
-**Not Breaking Space:** 
+**Non Breaking Space:** 
   
-Another Common Entity used in HTML is "not breaking space". This is used when you want a certain nymber of words in a row to stay together in the browser for visual reason or any other.In the below exaple the if I want the last 4 words of the last sentence to be wrapped together, I type &nbsp; between each word without any space.
+Another Common Entity used in HTML is "non breaking space". This is used when you want a certain nymber of words in a row to stay together in the browser for visual reason or any other.In the below exaple the if I want the last 4 words of the last sentence to be wrapped together, I type &nbsp; between each word without any space.
   
 Example:
 	
