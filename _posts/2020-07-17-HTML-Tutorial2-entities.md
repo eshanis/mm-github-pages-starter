@@ -86,11 +86,11 @@ Example:
 	</html>	
  
  <!DOCTYPE html>
-	 <html>
+ <html>
 	
-	 <body>
+ <body>
 	
-	 <p>
+	<p>
   	"It is not the critic who counts; not the man who points out how the strong man stumbles,
   	or where the doer of deeds could have done them better. The credit belongs to the man who is actually 
   	in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who 
@@ -101,6 +101,6 @@ Example:
   	cold and timid souls who neither know victory nor defeat."
 	</p>
 	<p>Theodor Roosevelt 1910&copy; Copyright</p>
-	</body>
+</body>
       
-	</html>	
+</html>	
