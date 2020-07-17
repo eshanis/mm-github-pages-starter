@@ -52,7 +52,8 @@ Published: true
    
 ![replace<>&]({{site.baseurl}}/assets/images/html2_less_more_ampersand.PNG)
 
-**NOTE:** to add the copyright symbol to HTML type 
+**NOTE:** to add the copyright symbol to HTML type 	&copy;
+  
  	&copy;
   
   
