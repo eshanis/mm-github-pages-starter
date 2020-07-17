@@ -24,7 +24,7 @@ Published: true
 	</body>
 	</html>
     
- <!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -45,3 +45,11 @@ Published: true
 <p>Theodor Roosevelt 1910 Copyright</p>
 </body>
 </html>
+  
+  
+ In the above example replace
+ < with &lt;
+ > with &mt;
+ & with 
+   
+![replace<>&]({{site.baseurl}}/assets/images/html2_less_more_ampersand.PNG)
