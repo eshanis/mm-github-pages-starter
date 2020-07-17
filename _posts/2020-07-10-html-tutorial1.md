@@ -191,7 +191,9 @@ examples:
     </ol>
   </div>
 
-### Commenting in CSS file 
+
+
+**NOTE :### Commenting in CSS file**
 to comment any line in CSS file use "/*"
 
 ```
