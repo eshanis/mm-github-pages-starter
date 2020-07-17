@@ -61,7 +61,7 @@ Published: true
  
 **Not Breaking Space:** 
   
-Another Common Entity used in HTML is "not breaking space". This is used when you want a certain nymber of words in a row to stay together in the browser for visual reason or any other.
+Another Common Entity used in HTML is "not breaking space". This is used when you want a certain nymber of words in a row to stay together in the browser for visual reason or any other.In the below exaple the if I want the last 4 words of the last sentence to be wrapped together, I type &nbsp; between each word withiut any space.
   
 Example:
 	
@@ -76,9 +76,9 @@ Example:
   	in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who 
   	comes short again and again, because there is no effort without error and shortcoming; but who does 
   	actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself
-  	in a worthy cause; who at the best knows in the end the triumph&nbsp;of&nbsp;high&nbsp;achievement,and who at the 
+  	in a worthy cause; who at the best knows in the end the triumph of high achievement,and who at the 
   	worst, if he fails, at least fails while daring greatly, so that his place shall never be with those
-  	cold and timid souls who neither know victory nor defeat."
+  	cold and timid souls who neither know&nbsp;victory&nbsp;nor&nbsp;defeat."
 	</p>
 	<p>Theodor Roosevelt 1910&copy; Copyright</p>
 	</body>
