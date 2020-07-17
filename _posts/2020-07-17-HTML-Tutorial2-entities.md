@@ -48,8 +48,6 @@ Published: true
   
   
  In the above example replace
- < with &lt;
- > with &mt;
- & with 
+
    
 ![replace<>&]({{site.baseurl}}/assets/images/html2_less_more_ampersand.PNG)
