@@ -54,6 +54,6 @@ Published: true
 
 **NOTE:** to add the copyright symbol to HTML type "&copy;"
   
- 	&copy;
+	&copy; Copyight
   
   
