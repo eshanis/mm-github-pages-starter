@@ -4,7 +4,7 @@ Published: true
 ---
 ##
 
-To create a clickable taxt with an exyernal or internal link or to make an image clickable, use the 
+To create a clickable text with an external or internal link or to make an image clickable, use the 
 	<a> </a>
 
 
