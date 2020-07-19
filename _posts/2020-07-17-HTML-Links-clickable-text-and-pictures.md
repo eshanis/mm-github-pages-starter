@@ -21,7 +21,7 @@ title=the words you type here are what you see when you hover over the clickable
     
 ### 1.Clickable text with an external link.
 
-```
+ ```
 	<!doctype html>
  	<html>
  	<head>
@@ -41,9 +41,9 @@ title=the words you type here are what you see when you hover over the clickable
          
        			</a>
      		</p>
-```
+ ```
 
-	<!doctype html>
+<!doctype html>
 <html>
 <head>
   <meta charset="utf-8">
