@@ -43,7 +43,7 @@ title=the words you type here are what you see when you hover over the clickable
      		</p>
  ```
 
-<!doctype html>
+
 <html>
 <head>
   <meta charset="utf-8">
