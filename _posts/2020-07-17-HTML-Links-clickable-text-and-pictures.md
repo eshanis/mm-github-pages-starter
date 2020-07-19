@@ -9,6 +9,7 @@ To create a clickable text with an external or internal link or to make an image
 
 
 -The clickable text or image should be between the opening and closing tags
+
 -The href, target and title should be inside the opening tag only.
 
 href=target link
