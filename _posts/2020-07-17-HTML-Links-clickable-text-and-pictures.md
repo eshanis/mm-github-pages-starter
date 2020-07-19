@@ -5,9 +5,9 @@ Published: true
 ##
 
 To create a clickable text with an external or internal link or to make an image clickable, use the 
-	```
-    <a> </a>
- ```
+```
+<a> </a>
+```
 
 -The clickable text or image should be between the opening and closing tags
 
