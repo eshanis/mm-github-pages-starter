@@ -23,24 +23,24 @@ title=the words you type here are what you see when you hover over the clickable
 
 	```
 	<!doctype html>
- <html>
- <head>
-   <meta charset="utf-8">
-   <title>Links</title>
- </head>
- <body>
-   <h1 id="top">External Links</h1>
-   <section>
-     <p>
+ 	<html>
+ 	<head>
+  	 <meta charset="utf-8">
+  	 <title>Links</title>
+	 </head>
+	 <body>
+   	<h1 id="top">External Links</h1>
+  	 <section>
+    	 	<p>
        Let's link to eshanis github page I created for this course!
        <!-- link to eshanis page WITH TARGET-->
-       <a href="https://github.com/eshanis" 
-       target="_blank" title="star my github!">
+      			 <a href="https://github.com/eshanis" 
+      				 target="_blank" title="star my github!">
        
-              github Page
+                	github Page
          
-       </a>
-     </p>
+       			</a>
+     		</p>
 	```
 
 	<!doctype html>
