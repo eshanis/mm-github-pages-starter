@@ -56,9 +56,11 @@ For example
 **NOTE:** the use of "div" is optional.
 
 
-If you have many pages in your website and you want to link to another page, you can do :
+**5. If you have many pages in your website and you want to link to another page, you can do **
 ```
 
 ```
+
+
 So here's a complete example: 
 
