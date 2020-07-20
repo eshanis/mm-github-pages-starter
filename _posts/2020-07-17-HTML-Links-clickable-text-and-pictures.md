@@ -129,12 +129,12 @@ For example
 <br>
 
 <section id="section2"> 
-    <h3>(#section2) Section 2</h3>
+    <h3>Section 2</h3>
     <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men, couldn't put humpty together again.</P>
 </section>
 
 <section id="section3">
-    <h3>(#section3) Section 3</h3> 
+    <h3>Section 3</h3> 
     <p> Jack and Jill went up the hill to fetch a pail of water, Jack fell down and broke his crown and Jill came tumbling after.</p>
 </section>
 <br>
@@ -182,8 +182,8 @@ For example
   <br>
 
   <section id="section2"> 
-      <h3>(#section2) Section 2</h3>
-      <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men,      couldn't put humpty together again.</P>
+      <h3>Section 2</h3>
+      <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men,      couldn't put humpty together again.</p>
   </section>
    <br>
    <br>
@@ -192,7 +192,7 @@ For example
    <hr>
    <br>  
   <section id="section3">
-      <h3>(#section3) Section 3</h3> 
+      <h3>Section 3</h3> 
       <p> Jack and Jill went up the hill to fetch a pail of water, Jack fell down and broke his crown and Jill came     tumbling after.</p>
   </section>
   <br>
