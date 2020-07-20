@@ -79,7 +79,7 @@ For example
 
 **NOTE:** the use of "div" is optional.
 
-          Hover over the image to see the "title" text "star my github"
+ Hover over the image to see the "title" text "star my github"
 
 
   <hr>
