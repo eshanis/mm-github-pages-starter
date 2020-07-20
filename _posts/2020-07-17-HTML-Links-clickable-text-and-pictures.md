@@ -173,7 +173,7 @@ For example
   <section id="section1">
       <h3>(#section1) Section 1</h3> 
       <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was whte as snow.
-  </section>
+    </section>
   <br>
   <br>
   <br>
