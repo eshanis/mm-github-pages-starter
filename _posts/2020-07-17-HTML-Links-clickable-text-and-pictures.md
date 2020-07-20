@@ -154,13 +154,13 @@ For example
 
   <body>
     <h1 id="top">Linking to Sections on The Same Page</h1>
-  
+  When you click on "section1"
     <section>
       <ul>
         <!-- Link to every section in the page -->
-        <li><a href="#section1">#section1</a></li>
-        <li><a href="#section2">#section2</a></li>
-        <li><a href="#section3">#section3</a></li>
+        <li><a href="#section1">section1</a></li>
+        <li><a href="#section2">section2</a></li>
+        <li><a href="#section3">section3</a></li>
       </ul>
     </section>
   <br>
