@@ -50,11 +50,11 @@ For example:
 ```
   <!-- link to eshanis page WITH TITLE-->
 <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
-click here
+click here for eshanis github page
 </a>       
 ```
  <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
- click here
+ click here for eshanis github page
  </a>
 
   <hr>
