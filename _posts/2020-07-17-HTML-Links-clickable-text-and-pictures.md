@@ -153,7 +153,7 @@ For example
 ```
 
   <body>
-    <h1 id="top">Links to Sections on The Same Page</h1>
+    <h1 id="top">Linking to Sections on The Same Page</h1>
   
     <section>
       <ul>
