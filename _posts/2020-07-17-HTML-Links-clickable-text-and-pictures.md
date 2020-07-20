@@ -62,9 +62,9 @@ For example
 
 ```
 <a href="html-tutorial1"  target="_blank" title="star my github!">
-          <div>
+      
             <img src="https://blog.eshani.ml/assets/images/eshu.jpg" alt="eshani" width="100" height="100">
-          </div>      
+                
 </a>
 
 So here's a complete example: 
