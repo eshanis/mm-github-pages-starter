@@ -17,7 +17,10 @@ For example
     github Page      
  </a>
 ```
-
+  <a href="https://github.com/eshanis">  
+  github Page      
+  </a>
+ 
   <hr>
   
 **2. Sometimes, you want to open the page in a new tab, so the user doesnt lose your page. Use "target=_blank"**
