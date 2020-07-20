@@ -57,9 +57,7 @@ For example
 ```
 
   <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
-
   <img src="https://blog.eshani.ml/assets/images/eshu.jpg" alt="eshani" width="100" height="100">
-      
   </a>
 
 
