@@ -207,4 +207,5 @@ For example
    Back to top: <a href="#top">Back to Top</a>
    </p>
    </div>
-    </body>
+    <hr>
+  </body>
