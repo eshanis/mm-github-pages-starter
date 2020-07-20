@@ -58,14 +58,12 @@ For example
 
 **5. If you have many pages in your website and you want to link to another page in your website, you can do **
 ```
-<!-- link to another blog post within my website-->
-
-```
-<a href="html-tutorial1"  target="_blank" title="star my github!">
+<a href="/html-tutorial1"  target="_blank" title="star my github!">
       
             <img src="https://blog.eshani.ml/assets/images/eshu.jpg" alt="eshani" width="100" height="100">
                 
 </a>
-
+```
+[tutorial 1](/html-tutorial1/)
 So here's a complete example: 
 
