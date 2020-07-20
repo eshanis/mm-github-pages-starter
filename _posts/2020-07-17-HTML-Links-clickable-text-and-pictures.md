@@ -154,8 +154,8 @@ For example
 
   <body>
     <h1 id="top">Linking to Sections on The Same Page</h1>
-  When you click on "section1", It takes you to the paragraph below that says "Section 1" 
-  <div> Whe you click on "back to top" at the bottom of the page, ittakes you directly to the top of the page</div>
+  When you click on "**section1**", It takes you to the paragraph below that says "**Section 1**" 
+  <div> When you click on "**back to top**" at the bottom of the page, ittakes you directly to the top of the page</div>
     <section>
       <ul>
         <!-- Link to every section in the page -->
