@@ -57,7 +57,7 @@ eshanis github page
  eshanis github page
  </a>
 
-Hover over the above link to see the "title" text "star my github"
+**NOTE:** Hover over the above link to see the "title" text "star my github"
   <hr>
   
 **4. In case you want to make an image as the thing you want the user to click to take them to another link**
