@@ -56,11 +56,16 @@ For example
 **NOTE:** the use of "div" is optional.
 
 
-**5. If you have many pages in your website and you want to link to another page, you can do **
+**5. If you have many pages in your website and you want to link to another page in your website, you can do **
 ```
+<!-- link to another blog post within my website-->
 
 ```
-
+<a href="html-tutorial1"  target="_blank" title="star my github!">
+          <div>
+            <img src="https://blog.eshani.ml/assets/images/eshu.jpg" alt="eshani" width="100" height="100">
+          </div>      
+</a>
 
 So here's a complete example: 
 
