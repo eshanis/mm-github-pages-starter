@@ -14,12 +14,12 @@ For this, you use the "a" tags
 For example
 ```
  <a href="https://github.com/eshanis">  
-    github Page      
+    eshanis github Page      
  </a>
 ```
 
   <a href="https://github.com/eshanis">  
-  github Page      
+  eshani github Page      
   </a>
  
   <hr>
@@ -33,12 +33,12 @@ For example:
 ```
 <!-- link to eshanis page WITH TARGET-->
 <a href="https://github.com/eshanis"  target="_blank">      
-	github Page       
+	eshanis github Page       
 </a>
 ```
 
   <a href="https://github.com/eshanis"  target="_blank">      
-	github Page       
+	eshanis github Page       
   </a>
   
   
@@ -50,11 +50,11 @@ For example:
 ```
   <!-- link to eshanis page WITH TITLE-->
 <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
-click here for eshanis github page
+eshanis github page
 </a>       
 ```
  <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
- click here for eshanis github page
+ eshanis github page
  </a>
 
   <hr>
