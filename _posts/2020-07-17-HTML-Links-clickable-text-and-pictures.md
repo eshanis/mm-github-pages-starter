@@ -84,7 +84,8 @@ For example
 
   <hr>
   
-**5. If you have many pages in your website and you want to link to another page in your website, you can do **
+**5. If you have many pages in your website and you want to link to another page in your website, you can do**
+
 ```
 <a href="/html-tutorial1"  target="_blank" title="star my github!">
       
