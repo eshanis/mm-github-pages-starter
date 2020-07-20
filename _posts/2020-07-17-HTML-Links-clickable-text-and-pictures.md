@@ -26,6 +26,15 @@ As example:
 </a>
 ```
 You may have noticed a title inside the opening "a" tag. This title shows up when you hover over the link
+```
+<a>
+  <!-- link to eshanis page WITH TARGET-->
+      <a href="https://github.com/eshanis" 
+       target="_blank" 
+       title="star my github!">
+</a>       
+```
+
 
 In case you want to make an image as the thing you want the user to click to take them to another link, 
 ```
