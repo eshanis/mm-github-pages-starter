@@ -39,9 +39,9 @@ For example:
 <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
 </a>       
 ```
-<a href="https://github.com/eshanis"  target="_blank" title="star my github!">
-click here
-</a>
+ <a href="https://github.com/eshanis"  target="_blank" title="star my github!">
+ click here
+ </a>
 
 **4. In case you want to make an image as the thing you want the user to click to take them to another link**
 
