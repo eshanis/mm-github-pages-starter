@@ -105,9 +105,9 @@ For example
   <section>
     <ul>
       <!-- Link to every section in the page -->
-      <li><a href="#section1">#section1</a></li>
-      <li><a href="#section2">#section2</a></li>
-      <li><a href="#section3">#section3</a></li>
+      <li><a href="#section1">Section1</a></li>
+      <li><a href="#section2">Section2</a></li>
+      <li><a href="#section3">Section3</a></li>
     </ul>
   </section>
 <br>
@@ -154,13 +154,13 @@ For example
 
   <body>
     <h1 id="top">Linking to Sections on The Same Page</h1>
-  When you click on "section1"
+  When you click on "section1", It takes you to the paragraph below that says "Section 1"
     <section>
       <ul>
         <!-- Link to every section in the page -->
-        <li><a href="#section1">section1</a></li>
-        <li><a href="#section2">section2</a></li>
-        <li><a href="#section3">section3</a></li>
+        <li><a href="#section1">Section1</a></li>
+        <li><a href="#section2">Section2</a></li>
+        <li><a href="#section3">Section3</a></li>
       </ul>
     </section>
   <br>
