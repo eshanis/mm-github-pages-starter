@@ -96,5 +96,42 @@ For example
 [tutorial 1](/html-tutorial1/)
 
 
+**6.Linking to sections on the same page: fragment identifiers**
 
+```
+<body>
+  <h1 id="top">Links to Sections on The Same Page</h1>
+  
+  <section>
+    <ul>
+      <!-- Link to every section in the page -->
+      <li><a href="#section1">#section1</a></li>
+      <li><a href="#section2">#section2</a></li>
+      <li><a href="#section3">#section3</a></li>
+      <li><a href="#section4">#section4</a></li>
+      <li><a href="#section5">#section5</a></li>
+    </ul>
+  </section>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<section id="section1">
+    <h3>(#section1) Section 1</h3> 
+    <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was whte as snow.
+</section>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<section id="section2"> 
+    <h3>(#section2) Section 2</h3>
+    <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men, couldn't put humpty together again
+</section>
+ 
 
+    
