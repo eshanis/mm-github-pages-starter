@@ -5,33 +5,35 @@ Published: true
 Sometimes you want to put links to others people's pages or pages within your own website.
 
 For this, you use the "a" tags
+
+**1. If you want to link to my github page**
 ```
 <a href= "the_site_you_want_to_link"> The  Name of the site </a>
 ```
-For example, if you want to link to my github page:
+For example
 ```
  <a href="https://github.com/eshanis">  
     github Page      
  </a>
 ```
 
-Sometimes, you want to open the page in a new tab, so the user doesnt lose your page. Use "target=_blank"
+**2. Sometimes, you want to open the page in a new tab, so the user doesnt lose your page. Use "target=_blank"**
 ```
 <a href= "the_site_you_want_to_link" target="_blank"> The  Name of the site you want to link to </a>
 ```
-As example:
+For example:
 ```
-<a href="https://github.com/eshanis"  target="_blank" title="star my github!">      
+<!-- link to eshanis page WITH TARGET-->
+<a href="https://github.com/eshanis"  target="_blank">      
 	github Page       
 </a>
 ```
-You may have noticed a title inside the opening "a" tag. This title shows up when you hover over the link
+
+**3. You may have noticed a title inside the opening "a" tag. This title shows up when you hover over the link**
+For example:
 ```
-<a>
-  <!-- link to eshanis page WITH TARGET-->
-      <a href="https://github.com/eshanis" 
-       target="_blank" 
-       title="star my github!">
+  <!-- link to eshanis page WITH TITLE-->
+<a href="https://github.com/eshanis"  target="_blank" title="star my github!">
 </a>       
 ```
 
