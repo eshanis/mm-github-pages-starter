@@ -149,4 +149,57 @@ For example
  Back to top: <a href="#top">Back to Top</a>
  </p>
  </div>
- </body>   
+ </body>  
+```
+
+<body>
+  <h1 id="top">Links to Sections on The Same Page</h1>
+  
+  <section>
+    <ul>
+      <!-- Link to every section in the page -->
+      <li><a href="#section1">#section1</a></li>
+      <li><a href="#section2">#section2</a></li>
+      <li><a href="#section3">#section3</a></li>
+    </ul>
+  </section>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+
+<section id="section1">
+    <h3>(#section1) Section 1</h3> 
+    <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was whte as snow.
+</section>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+
+<section id="section2"> 
+    <h3>(#section2) Section 2</h3>
+    <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men, couldn't put humpty together again.</P>
+</section>
+
+<section id="section3">
+    <h3>(#section3) Section 3</h3> 
+    <p> Jack and Jill went up the hill to fetch a pail of water, Jack fell down and broke his crown and Jill came tumbling after.</p>
+</section>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br> 
+
+<div>
+ <p>
+ Back to top: <a href="#top">Back to Top</a>
+ </p>
+ </div>
+ </body> 
