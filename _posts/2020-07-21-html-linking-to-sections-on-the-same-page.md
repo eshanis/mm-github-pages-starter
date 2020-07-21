@@ -63,7 +63,8 @@ published: true
   
     When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page 
     
- 
+    Use the "id" tag at the section you want to link and "#" before the name when specifying "href= "
+  
     <section>
       <ul>
         <!-- Link to every section in the page -->
