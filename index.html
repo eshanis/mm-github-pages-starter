@@ -12,6 +12,7 @@ published: true
 		  	<img src="{{ post.thumbnail }}" style="height: 40%; width: 20%;" align="center" />
 	      		<!--h1-->
                   {{ post.excerpt }}
+          			<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
           		<!--/h1-->
 
 	      <div class="entry">
@@ -19,7 +20,7 @@ published: true
 		
 	      </div>
 
-	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+	      
 	    </article>
 	  {% endfor %}
 	</div>
