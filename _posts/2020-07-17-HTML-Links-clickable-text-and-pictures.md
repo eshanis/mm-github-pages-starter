@@ -142,20 +142,22 @@ For example
 
    <h1 id="top">Linking to Sections on The Same Page</h1>
    <div>Use the "id" tag at the section you want to link and "#" before the name when specifying "href= ".</div>
+   
    <div>When you click on "Section1", It takes you to the paragraph below that says "Section 1". </div> 
+   <div>Example</div>
+   
    <div>When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page.        </div>
   
    
   Example:
-
     
 ```
-  <!-- link to eshanis page WITH TITLE-->
-<a href="https://github.com/eshanis"  target="_blank" title="star my github!">
-eshanis github page
-</a>       
+<h1 id="top">Links to Sections on The Same Page</h1>   
 ```
-    <section>
+   
+   
+   
+   <section>
       <ul>
         <!-- Link to every section in the page -->
         <li><a href="#section1">Section1</a></li>
