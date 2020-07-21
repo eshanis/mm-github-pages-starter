@@ -98,47 +98,7 @@ For example
 
 **6.Linking to sections on the same page: fragment identifiers**
 
-```
-<body>
-  <h1 id="top">Links to Sections on The Same Page</h1>
-  
-  <section>
-    <ul>
-      <!-- Link to every section in the page -->
-      <li><a href="#section1">Section1</a></li>
-      <li><a href="#section2">Section2</a></li>
-    </ul>
-  </section>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<br>
 
-<section id="section1">
-    <h3>Section 1</h3> 
-    <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was whte as snow.
-</section>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<br>
-
-<section id="section2"> 
-    <h3>Section 2</h3>
-    <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men, couldn't put humpty together again.</P>
-</section>
-
-<div>
- <p>
- Back to top: <a href="#top">Back to Top</a>
- </p>
- </div>
- </body>  
-```
 
    <h1 id="top">Linking to Sections on The Same Page</h1>
    <div>Use the "id" tag at the section you want to link and "#" before the name when specifying "a href= ".</div>
