@@ -177,7 +177,7 @@ For example
 
   <section id="section1">
       <h3>Section 1</h3> 
-      <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was whte as snow.</p>
+      <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was white as snow.</p>
       </section>
   <br>
   <br>
