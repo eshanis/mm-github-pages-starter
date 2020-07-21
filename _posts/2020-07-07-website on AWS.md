@@ -45,4 +45,4 @@ Create a new pair of keys and save the private key. Then click launch.
 
 ![launch]({{site.baseurl}}/assets/images/launched_instance.PNG)
 
-Step 10 : check that your instance is now running and has a IP address 
+Step 10 : check that your instance is now running and has a IP address
