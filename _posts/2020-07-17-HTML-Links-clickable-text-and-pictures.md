@@ -1,6 +1,7 @@
 ---
 published: true
 Published: true
+thumbnail: /assets/images/bio-photo.jpg
 ---
 Sometimes you want to put links to others people's pages or pages within your own website.
 
