@@ -1,5 +1,6 @@
 ---
 published: true
+thumbnail: /assets/images/bio-photo.jpg
 ---
 Hello!
 When I started, I was so overwhelmed with all the options out there and trying to figure out how to host a website without spending a ton of money, it took me awhile to get here. Hope this blog makes it easier for you to build your website. This blog is a step by step guide to building a website using [typerite template](https://www.styleshout.com/free-templates/typerite/).
@@ -29,4 +30,3 @@ When uploading to 000webhost, make sure to unzip the files.
 The files need to be uploaded in the public.html folder
 
 ![upload_unzip_public_html]({{site.baseurl}}/assets/images/typerite_upload_public_html.PNG)
-
