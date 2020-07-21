@@ -141,7 +141,7 @@ For example
 ```
 
    <h1 id="top">Linking to Sections on The Same Page</h1>
-   <div>Use the "id" tag at the section you want to link and "#" before the name when specifying "href= ".</div>
+   <div>Use the "id" tag at the section you want to link and "#" before the name when specifying "a href= ".</div>
    
    <div>When you click on "Section1", It takes you to the paragraph below that says "Section 1". </div> 
    <div>Example</div>
@@ -154,7 +154,11 @@ For example
 ```
 <h1 id="top">Links to Sections on The Same Page</h1>   
 ```
-   
+```
+<p>
+Back to top: <a href="#top">Back to Top</a>
+</p>
+```
    
    
    <section>
