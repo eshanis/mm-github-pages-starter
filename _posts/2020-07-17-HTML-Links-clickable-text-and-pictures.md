@@ -157,9 +157,7 @@ For example
   
     When you click on "Section1", It takes you to the paragraph below that says "Section 1" 
   
-    When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page 
-   
-    When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page 
+    When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page.  
     
     Use the "id" tag at the section you want to link and "#" before the name when specifying "href= "
  
