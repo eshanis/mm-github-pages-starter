@@ -160,13 +160,14 @@ For example
     When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page.  
     
     Use the "id" tag at the section you want to link and "#" before the name when specifying "href= "
- 
+  
+    Example:
+  
     <section>
       <ul>
         <!-- Link to every section in the page -->
         <li><a href="#section1">Section1</a></li>
         <li><a href="#section2">Section2</a></li>
-        <li><a href="#section3">Section3</a></li>
       </ul>
     </section>
   <br>
@@ -197,16 +198,7 @@ For example
    <br>
    <hr>
    <br>  
-  <section id="section3">
-      <h3>Section 3</h3> 
-      <p> Jack and Jill went up the hill to fetch a pail of water, Jack fell down and broke his crown and Jill came     tumbling after.</p>
-  </section>
-  <br>
-  <br>
-  <br>
-  <br>
-  <hr>
-  <br> 
+  
 
   <div>
    <p>
