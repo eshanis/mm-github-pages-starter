@@ -140,7 +140,6 @@ Back to top: <a href="#top">Back to Top</a>
         <!-- Link to every section in the page -->
         <li><a href="#section1">Section1</a></li>
         <li><a href="#section2">Section2</a></li>
-        <li><a href="#section3">Section3</a></li>
       </ul>
     </section>
   <br>
@@ -177,5 +176,5 @@ Back to top: <a href="#top">Back to Top</a>
    </p>
    </div>
     <hr>
-  </body
+   </body
    
