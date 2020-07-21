@@ -151,7 +151,13 @@ For example
 <li><a href="#section1">Section1</a></li>
 <li><a href="#section2">Section2</a></li>
 ```
-   
+
+```
+<section id="section1">
+<h3>Section 1</h3> 
+<p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was whte as snow.
+</section>
+```
    
    <div>When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page.        </div>
   
@@ -168,47 +174,4 @@ Back to top: <a href="#top">Back to Top</a>
 ```
    
    
-   <section>
-      <ul>
-        <!-- Link to every section in the page -->
-        <li><a href="#section1">Section1</a></li>
-        <li><a href="#section2">Section2</a></li>
-      </ul>
-    </section>
-  <br>
-  <br>
-  <br>
-  <br>
-  <hr>
-  <br>
-
-  <section id="section1">
-      <h3>Section 1</h3> 
-      <p> Mary Had a little lamb, little lamb, Little lamb. Mary had a little lamb whose fleece was white as snow.</p>
-      </section>
-  <br>
-  <br>
-  <br>
-  <br>
-  <hr>
-  <br>
-
-  <section id="section2"> 
-      <h3>Section 2</h3>
-      <p> Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. All the kings horses and all the kings men,      couldn't put humpty together again.</p>
-  </section>
-   <br>
-   <br>
-   <br>
-   <br>
-   <hr>
-   <br>  
-  
-
-  <div>
-   <p>
-   Back to top: <a href="#top">Back to Top</a>
-   </p>
-   </div>
-    <hr>
-  </body>
+   
