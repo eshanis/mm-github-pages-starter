@@ -134,7 +134,7 @@ Back to top: <a href="#top">Back to Top</a>
 ```
    
  <body>
-    <h1 id="top">Linking to Sections on The Same Page</h1>
+    <h1 id="top">Try it for yourself Page</h1>
   <section>
       <ul>
         <!-- Link to every section in the page -->
