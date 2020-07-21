@@ -2,18 +2,26 @@
 layout: default
 published: true
 ---
+<link rel="stylesheet" href="/assets/css/styles.css"> 
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-	  <img src="{{ post.thumbnail }}" style="height: 100px" align="center" />
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="masonry">
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+	<div class="posts">
+	  {% for post in site.posts %}
+	    <article class="masonry__brick entry format-standard animate-this">
+	    <!--article class="post"-->
+		   <div class="entry__thumb">
+		  	<img src="{{ post.thumbnail }}" style="height: 100px" align="center" />
+	      		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+	      <div class="entry__excerpt">
+	      <!--div class="entry"-->
+		{{ post.excerpt }}
+	      </div>
+
+	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+	    </article>
+	  {% endfor %}
+	</div>
 </div>
