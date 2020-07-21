@@ -15,9 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/assets/images/eshu.jpg"
-
 
 title: Tech Tutorials
 email:
