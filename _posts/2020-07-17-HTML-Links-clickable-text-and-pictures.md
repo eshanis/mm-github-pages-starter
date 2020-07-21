@@ -178,3 +178,4 @@ Back to top: <a href="#top">Back to Top</a>
     <hr>
    </body>
    
+ For detailed example [click here](https://github.com/eshanis/fullstack-course4/blob/master/examples/Lecture09/links-same-page.html)  
