@@ -65,6 +65,3 @@ the [course lectures](https://github.com/eshanis/fullstack-course4) and code can
 
 Another online course that was interactive and helped me was [rithm school](https://www.rithmschool.com/courses/html-css-fundamentals) 
 The Code and lectures for this course can be found [here](https://github.com/eshanis/html_css_basics_solutions)
-
-
-
