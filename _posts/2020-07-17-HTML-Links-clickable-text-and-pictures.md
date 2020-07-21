@@ -146,6 +146,13 @@ For example
    <div>When you click on "Section1", It takes you to the paragraph below that says "Section 1". </div> 
    <div>Example</div>
    
+```
+<ul>
+<li><a href="#section1">Section1</a></li>
+<li><a href="#section2">Section2</a></li>
+```
+   
+   
    <div>When you click on "back to top" at the bottom of the page, it takes you directly to the top of the page.        </div>
   
    
