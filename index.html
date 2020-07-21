@@ -4,20 +4,15 @@ published: true
 ---
 <link rel="stylesheet" href="/assets/css/styles.css"> 
 
-<div class="masonry">
-  <div class="grid-sizer">
 
 	<div class="posts">
 	  {% for post in site.posts %}
-	    <article class="post masonry__brick entry  animate-this">
-	    <!--article class="post"-->
-		   <div class="entry__thumb">
+
+	    <article class="post">
 		  	<img src="{{ post.thumbnail }}" style="height: 100px" align="center" />
 	      		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-		    </div>
 
-	      <div class="entry__excerpt entry">
-	      <!--div class="entry"-->
+	      <div class="entry">
 		{{ post.excerpt }}
 	      </div>
 
@@ -25,5 +20,4 @@ published: true
 	    </article>
 	  {% endfor %}
 	</div>
-</div>
-</div>
+
