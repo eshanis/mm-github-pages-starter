@@ -31,7 +31,7 @@ search: true
 markdown: kramdown
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 #remote_theme: eshnil2000/minimal-mistakes
 # Outputting
