@@ -1,5 +1,6 @@
 ---
 published: false
+Published: true
 ---
 ## Uploading existing folders to Github as a repo
 
